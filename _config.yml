@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: The Intersection of Product and Development
+title: Brendan Mulholland
 email: website-contact@bmulholland.ca
 description: >- # this means to ignore newlines until "baseurl:"
-  By Brendan Mulholland
+  Blog
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://bmulholland.ca" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: brenmulholland
 github_username:  bmulholland
 
@@ -27,6 +27,14 @@ markdown: kramdown
 remote_theme: fongandrew/hydeout
 plugins:
   - jekyll-feed
+
+# To support a _pages subdir, per https://github.com/jekyll/jekyll/issues/920
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+permalink: pretty
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
