@@ -5,6 +5,17 @@ title: Home
 
 <h1>Resources For...</h1>
 
+<h2>Everyone</h2>
+<ul>
+  {% for everyone_resource in site.everyone_resources %}
+    <h3>
+      <a href="{{ everyone_resource.url }}">
+        {{ everyone_resource.title }}
+      </a>
+    </h3>
+  {% endfor %}
+</ul>
+
 <h2>Developers</h2>
 <ul>
   {% for developer_resource in site.developer_resources %}
