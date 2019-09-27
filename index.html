@@ -2,3 +2,16 @@
 layout: index
 title: Home
 ---
+
+<h1>Resources For...</h1>
+
+<h2>Developers</h2>
+<ul>
+  {% for developer_resource in site.developer_resources %}
+    <h3>
+      <a href="{{ developer_resource.url }}">
+        {{ developer_resource.title }}
+      </a>
+    </h3>
+  {% endfor %}
+</ul>

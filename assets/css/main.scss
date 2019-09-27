@@ -5,8 +5,9 @@
 $sidebar-bg-color: #3399FF;
 $link-color: #ac4142;
 $sidebar-sticky: false;
+
 @import "hydeout";
 
-.home #sidebar .site-title {
-  font-size: 1.25rem;
+#sidebar .site-title {
+  font-size: 1.25rem !important;
 }

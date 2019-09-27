@@ -16,7 +16,6 @@
 title: Brendan Mulholland
 email: website-contact@bmulholland.ca
 description: >- # this means to ignore newlines until "baseurl:"
-  Blog
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://bmulholland.ca" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: brenmulholland
@@ -28,11 +27,12 @@ remote_theme: fongandrew/hydeout
 plugins:
   - jekyll-feed
 
-# To support a _pages subdir, per https://github.com/jekyll/jekyll/issues/920
 collections:
-  pages:
+  developer_resources:
     output: true
-    permalink: /:path/
+    order:
+      - leveling-up-development.md
+      - junior-to-intermediate.md
 
 permalink: pretty
 
