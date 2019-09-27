@@ -6,5 +6,4 @@ gem "jekyll-theme-hydeout"
 
 group :jekyll_plugins do
   gem "jekyll-feed"
-  gem 'jekyll-analytics'
 end

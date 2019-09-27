@@ -27,7 +27,6 @@ markdown: kramdown
 remote_theme: fongandrew/hydeout
 plugins:
   - jekyll-feed
-  - jekyll-analytics
 
 # To support a _pages subdir, per https://github.com/jekyll/jekyll/issues/920
 collections:
@@ -37,10 +36,7 @@ collections:
 
 permalink: pretty
 
-jekyll_analytics:
-  GoogleAnalytics:
-    id: UA-148886938-1
-    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
+google_analytics: UA-148886938-1
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
