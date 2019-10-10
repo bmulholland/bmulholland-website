@@ -11,3 +11,8 @@ $sidebar-sticky: false;
 #sidebar .site-title {
   font-size: 1.25rem !important;
 }
+
+#sidebar > p {
+  position: absolute;
+  bottom: 1em;
+}
