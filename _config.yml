@@ -17,7 +17,7 @@ title: Brendan Mulholland
 email: website-contact@bmulholland.ca
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://bmulholland.ca" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://bmulholland.ca" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: brenmulholland
 github_username:  bmulholland
 
