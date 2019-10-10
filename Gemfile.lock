@@ -253,7 +253,6 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   hawkins
-  jekyll-feed
   jekyll-theme-hydeout
 
 BUNDLED WITH
