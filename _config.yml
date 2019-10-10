@@ -34,8 +34,8 @@ collections:
     output: true
     order:
       - leveling-up-development.md
-      - intermediate-to-senior.md
-      - junior-to-intermediate.md
+      - 1-junior-to-intermediate.md
+      - 2-intermediate-to-senior.md
 
 permalink: pretty
 
