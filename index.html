@@ -7,22 +7,33 @@ title: Home
 
 <h2>Everyone</h2>
 <ul>
-  {% for everyone_resource in site.everyone_resources %}
-    <h3>
-      <a href="{{ everyone_resource.url }}">
-        {{ everyone_resource.title }}
-      </a>
-    </h3>
+  {% for resource in site.everyone_resources %}
+  <h3>
+    <a href="{{ resource.url }}">
+      {{ resource.title }}
+    </a>
+  </h3>
   {% endfor %}
 </ul>
 
 <h2>Developers</h2>
 <ul>
-  {% for developer_resource in site.developer_resources %}
-    <h3>
-      <a href="{{ developer_resource.url }}">
-        {{ developer_resource.title }}
-      </a>
-    </h3>
+  {% for resource in site.developer_resources %}
+  <h3>
+    <a href="{{ resource.url }}">
+      {{ resource.title }}
+    </a>
+  </h3>
+  {% endfor %}
+</ul>
+
+<h2>Product</h2>
+<ul>
+  {% for resource in site.product_resources %}
+  <h3>
+    <a href="{{ resource.url }}">
+      {{ resource.title }}
+    </a>
+  </h3>
   {% endfor %}
 </ul>

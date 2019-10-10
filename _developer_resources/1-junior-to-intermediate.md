@@ -4,7 +4,7 @@ layout: page
 ---
 
 
-This section is dedicated to giving you an idea of what it takes to move from Junior Developer to Intermediate Developer. Applying this stuff will take real-life experience, and so expect this to be a 1-2 year journey.
+This section is dedicated to giving you an idea of what it takes to move from Junior Developer to Intermediate Developer. Applying this stuff will take real-life experience, and so expect this to be a 1-2 year journey. [Here's your roadmap.](https://roadmap.sh)
 
 When to write clean code, when not to worry about it. How to focus on business value. Don’t do this: <https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/> section 5.0
 

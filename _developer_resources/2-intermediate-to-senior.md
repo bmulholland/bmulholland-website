@@ -3,6 +3,8 @@ layout: page
 title: Intermediate to Senior
 ---
 
+If you haven't already finished going through the [developer roadmap](https://roadmap.sh), now's a good time.
+
 <https://thoughtbot.com/upcase/analytics-for-developers>
 
 <https://thoughtbot.com/upcase/design-for-developers>

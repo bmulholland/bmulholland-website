@@ -30,10 +30,11 @@ plugins:
 collections:
   everyone_resources:
     output: true
+  product_resources:
+    output: true
   developer_resources:
     output: true
     order:
-      - leveling-up-development.md
       - 1-junior-to-intermediate.md
       - 2-intermediate-to-senior.md
 
