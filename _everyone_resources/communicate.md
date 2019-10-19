@@ -3,7 +3,7 @@ title: Communicate
 layout: page
 ---
 
-## Non-Judgmental, Empathetic Communication
+## Non-Judgmental Communication
 
 This is typically titled "Nonviolent Communication", or "NVC". Perhaps a misnomer, because "violent" conjures of
 all sorts of incoorrect imagery. Better names might be "observational communication", "non-judgmental communication",
