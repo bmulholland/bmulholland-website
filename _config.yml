@@ -34,9 +34,6 @@ collections:
     output: true
   developer_resources:
     output: true
-    order:
-      - 1-junior-to-intermediate.md
-      - 2-intermediate-to-senior.md
 
 permalink: pretty
 
