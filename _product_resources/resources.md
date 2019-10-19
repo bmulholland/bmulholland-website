@@ -16,4 +16,5 @@ layout: page
 # Discovery
 
 [An Introduction to Product Discovery](https://www.producttalk.org/2016/03/introduction-to-product-discovery/)
+
 [On the Culture of Product Discovery](https://www.producttalk.org/2016/03/rise-modern-product-discovery/)
