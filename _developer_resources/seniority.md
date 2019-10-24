@@ -6,9 +6,19 @@ layout: page
 It can be hard to determine what developer seniority levels are, and how to get from one level to the next. I will try
 to outline each roughly, describe the goals needed to move to the next level, and provide resources on doing that.
 
+
+## Bootcamp: Getting to Junior
+
+**Goal:** When you are first starting out, you need to learn the basic hard skills of being a developer. That means learning a
+language or two, using libraries, and understanding the basics of what you'll be working with (e.g. for web developers,
+how the internet works, HTTP basics, etc).
+
 ## Junior to Intermediate
 
-This section is dedicated to giving you an idea of what it takes to move from Junior Developer to Intermediate Developer. Applying this stuff will take real-life experience, and so expect this to be a 1-2 year journey. [Here's your roadmap.](https://roadmap.sh)
+**Goal:** To provide value with little intervention. Flesh out hard skills. Learn soft skills (basic professional skills (TODO), communicating in a developer team,
+working with code reviews, etc).
+
+Applying this stuff will take real-life experience, and so expect this to be a 1-2 year journey. [Here's your roadmap.](https://roadmap.sh)
 
 When to write clean code, when not to worry about it. How to focus on business value. Don’t do this: <https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/> section 5.0
 
