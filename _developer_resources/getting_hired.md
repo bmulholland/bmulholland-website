@@ -3,6 +3,15 @@ title: Getting Hired
 layout: page
 ---
 
+One key point is that company culture is really important to the success of a company, and the main way that companies
+can set the culture is by hiring people that match it. This is often about things that you might not care about (that's
+why it's not a fit!) and that's *okay*. This means that you may get rejected from a job for reasons that are completely
+outside your control; you may even have been perfectly qualified. Especially difficult is that it's often nigh
+impossible to explain why this is the case, and so you may not even get a reason for being rejected.  It can be hard to
+process this, but try not to take these rejections too personally. It's not your fault, and it's certainly not a
+judgment of you as a person. Have you ever met someone who was a perfectly fine person but you just didn't quite connect
+with? Yeah.
+
 [Entire Course on Getting Hired](https://www.theodinproject.com/courses/getting-hired)
 
 ## Preparing Your Resume

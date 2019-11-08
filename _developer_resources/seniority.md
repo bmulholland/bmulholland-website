@@ -6,25 +6,76 @@ layout: page
 It can be hard to determine what developer seniority levels are, and how to get from one level to the next. I will try
 to outline each roughly, describe the goals needed to move to the next level, and provide resources on doing that.
 
+It's important to note that there are several sets of skills that all are all combined and summarized whenever someone
+is talking about seniority:
+* hard skills (e.g. ability to program using Ruby, knowledge of Postgres)
+* soft-hard skills (e.g. broadly applicable programming knowledge that can be used in any language)
+* soft skills (e.g. communication, presentation)
+* professional skills (e.g. booking meetings, collaborating with colleagues)
+* management skills (e.g. leading others [team lead], managing others [manager])
+
+<!-- TODO: Write up documents that talk about each of these skills. -->
+
+Everyone's style and skills are different and everyone has strengths and weaknesses. That's okay, but it does make it
+really hard to compare different people's seniority levels, and thus to define what any seniority level really means.
+
+That said, there *is* a way to describe what these levels are really getting at, it's just very imprecise: **your
+seniority is the net value that you deliver to your employer**. (Your salary should be a measure of this too, though
+it often isn't - [Patrick Mckenzie has lots about that.](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)) So,
+at a high level, your goals are generally quite aligned with your employer: provide as much value as you can.
+
+To summarize seniority levels in these terms:
+* pre-Junior: cannot provide any value in a developer role
+* Junior: provides value with close supervision and frequent assistance
+* Intermediate: provides value with infrequent guidance
+* Senior: provides value with no assistance, sometimes collaborating with other teams or functions
+* Staff: provides outside-the-box value by collaborating throughout the company
+
+Below you'll find descriptions on what sorts of things that usually means you should focus on as you progress in your career.
 
 ## Bootcamp: Getting to Junior
 
-**Goal:** When you are first starting out, you need to learn the basic hard skills of being a developer. That means learning a
-language or two, using libraries, and understanding the basics of what you'll be working with (e.g. for web developers,
-how the internet works, HTTP basics, etc).
+**Goal:** Learn the hard skills that match the roles you want.
+
+*Skills:* 
+
+| **Hard**         | Experience using the languages & tools for your target role. |
+| **Hard-Soft**    | Being self directed and learning independently. Understanding well-defined requirements and building to match. |
+| **Soft**         | Basic communication skills: communicating progress, asking for help, participating in meetings. Receiving feedback in code reviews. |
+| **Professional** | How to behave and feel comfortable in an office or remote environment. |
+
+Before you have learned how to do the tasks, you obviously don't have the basic hard skills of being a
+developer, which means you obviously can't even begin providing value in a development role. Regardless of what you do
+here, you *are* going to need training at your first job. Employers know this (and those that don't are to be avoided,
+since you won't be set up for success), so if they're hiring for a junior position they are going to rank candidates
+based on how much hands-on training other employees are going to have to provide that hire. More time others spend with
+you = less time they spend on other work = negative value. (It's not true that this is actually negative value, but
+that's a discussion for later in your career.) And more time you spend waiting for and receiving training = less time
+you are spending on work = less output = less value.
+
+So how do you minimize the amount of training that you'll need? You train yourself as much as possible, both before and
+during. You try to already have experience with all the hard skills that you'll be using in the roles you're applying
+to, and you figure out how to learn things yourself. Then, while applying and interviewing you aim to communicate how
+quickly you'll get up to speed and produce value.
 
 ## Junior to Intermediate
 
-**Goal:** To provide value with little intervention. Flesh out hard skills. Learn soft skills (basic professional skills (TODO), communicating in a developer team,
-working with code reviews, etc).
+**Goal:** Learn how this stuff works in practice.
 
-Applying this stuff will take real-life experience, and so expect this to be a 1-2 year journey. [Here's your roadmap.](https://roadmap.sh)
+*Skills:*
 
-When to write clean code, when not to worry about it. How to focus on business value. Don’t do this: <https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/> section 5.0
+| **Hard**         | Deepen your knowledge of the languages and tools, learning how to make the most of it. Independent debugging of simple issues. |
+| **Hard-Soft**    | Learn new tools and technologies on your own. Timeboxing work. Making decisions of when to write clean, tested code and when it's not worth the time. |
+| **Soft**         | Communicating in a developer team, giving feedback in code reviews. |
+| **Professional** | Understanding your role in the company. Collaboratiing with others on the same task. |
 
-<https://medium.com/zerotomastery/dont-be-a-junior-developer-608c255b3056>
+It can be hard to find junioer developer roles because they provide a very small amount of value. Relative to costs,
+intermediate developers are generally far more cost effective. It's especially important that you work hard to get the
+initial experience to move beyond this level.
 
-<https://medium.com/zerotomastery/dont-be-a-junior-developer-the-roadmap-9fde5cf384bb>
+Applying this stuff will take real-life experience, and so expect this to be a 1-2 year journey minimum.
+
+<https://mixmastamyk.bitbucket.io/pro_soft_dev/index.html>
 
 <https://www.techrepublic.com/blog/software-engineer/10-tips-to-go-from-a-beginner-to-an-intermediate-developer/#>
 
@@ -41,6 +92,14 @@ SaaS: <https://stripe.com/atlas/guides/business-of-saas>
 <https://www.pluralsight.com>
 
 <https://developers.redhat.com/blog/2019/07/08/10-tips-for-reviewing-code-you-dont-like/>
+
+### Broaden Your Knowledge
+
+This isn't your primary goal, but it helps.
+
+[Roadmap to flesh out your hard skills](https://roadmap.sh)
+
+<https://medium.com/zerotomastery/dont-be-a-junior-developer-the-roadmap-9fde5cf384bb>
 
 ## Intermediate to Senior
 
