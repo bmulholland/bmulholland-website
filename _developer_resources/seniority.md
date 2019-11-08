@@ -58,6 +58,9 @@ during. You try to already have experience with all the hard skills that you'll 
 to, and you figure out how to learn things yourself. Then, while applying and interviewing you aim to communicate how
 quickly you'll get up to speed and produce value.
 
+Unfortunately, this means that no one can provide you with specific resources on how to do these things. The best you
+can do is follow some of the [meta skills](/everyone_resources/meta/).
+
 ## Junior to Intermediate
 
 **Goal:** Learn how this stuff works in practice.
