@@ -4,16 +4,16 @@ layout: page
 ---
 
 Links to read/incorporate:
-> <https://docs.google.com/spreadsheets/d/1k4sO6pyCl_YYnf0PAXSBcX776rNcTjSOqDxZ5SDty-4/edit#gid=0>
-> <https://stackoverflow.blog/2019/10/09/lessons-from-design-school-for-software-engineers/>
-> <https://www.altexsoft.com/blog/business/software-engineer-qualification-levels-junior-middle-and-senior/>
-> <http://www.wayland-informatics.com/The%20Seven%20Stages%20of%20Expertise%20in%20Software.htm>
-> <https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition>
-> <https://dev.to/jamesmh/whats-the-difference-between-a-senior-and-lead-developer-1pl2>
-> <https://www.arcanys.com/careers/careertalk/seniority-levels-in-software-development>
-> <https://sdacademy.dev/how-the-developer-seniority-levels-looks-like/>
-> <https://blog.pragmaticengineer.com/the-product-minded-engineer/>
-> <https://increment.com/teams/how-to-build-a-startup-engineering-team/>
+* <https://docs.google.com/spreadsheets/d/1k4sO6pyCl_YYnf0PAXSBcX776rNcTjSOqDxZ5SDty-4/edit#gid=0>
+* <https://stackoverflow.blog/2019/10/09/lessons-from-design-school-for-software-engineers/>
+* <https://www.altexsoft.com/blog/business/software-engineer-qualification-levels-junior-middle-and-senior/>
+* <http://www.wayland-informatics.com/The%20Seven%20Stages%20of%20Expertise%20in%20Software.htm>
+* <https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition>
+* <https://dev.to/jamesmh/whats-the-difference-between-a-senior-and-lead-developer-1pl2>
+* <https://www.arcanys.com/careers/careertalk/seniority-levels-in-software-development>
+* <https://sdacademy.dev/how-the-developer-seniority-levels-looks-like/>
+* <https://blog.pragmaticengineer.com/the-product-minded-engineer/>
+* <https://increment.com/teams/how-to-build-a-startup-engineering-team/>
 
 It can be hard to determine what developer seniority levels are, and how to get from one level to the next. I will try
 to outline each roughly, describe the goals needed to move to the next level, and provide resources on doing that.
