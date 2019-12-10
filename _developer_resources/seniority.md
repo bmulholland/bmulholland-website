@@ -13,6 +13,7 @@ Links to read/incorporate:
 > <https://www.arcanys.com/careers/careertalk/seniority-levels-in-software-development>
 > <https://sdacademy.dev/how-the-developer-seniority-levels-looks-like/>
 > <https://blog.pragmaticengineer.com/the-product-minded-engineer/>
+> <https://increment.com/teams/how-to-build-a-startup-engineering-team/>
 
 It can be hard to determine what developer seniority levels are, and how to get from one level to the next. I will try
 to outline each roughly, describe the goals needed to move to the next level, and provide resources on doing that.
