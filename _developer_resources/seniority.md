@@ -117,7 +117,8 @@ mentor others? Are you more interested in the structure of the code? Do you get 
 tools you work with better?
 
 If you're pulled toward user/business problems, you may identify as a [Product-Minded
-Engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer/).
+Engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer/). If this is something that interests you,
+there's [some additional discussion on HN](https://news.ycombinator.com/item?id=21732027) that might provide further insight.
 
 <https://thoughtbot.com/upcase/analytics-for-developers>
 
