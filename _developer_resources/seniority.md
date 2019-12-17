@@ -111,6 +111,14 @@ This isn't your primary goal, but it helps.
 
 If you haven't already finished going through the [developer roadmap](https://roadmap.sh), now's a good time.
 
+Around this time, you may start to find yourself pulled in a particular area of interest. Do you thrive when focused on
+hard technical problems? Do you prefer to think about the user and business problems? Do you prefer to work with and
+mentor others? Are you more interested in the structure of the code? Do you get fired up by thinking about making the
+tools you work with better?
+
+If you're pulled toward user/business problems, you may identify as a [Product-Minded
+Engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer/).
+
 <https://thoughtbot.com/upcase/analytics-for-developers>
 
 <https://thoughtbot.com/upcase/design-for-developers>
