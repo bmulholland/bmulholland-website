@@ -3,44 +3,50 @@ layout: index
 title: Home
 ---
 
-I'm a product-inclined web deverlopr originally from Vancouver, Canada and currently living in Berlin. 
-I focus on problems in the Legal industry and have been solving problems related to contract negotiations for seven
-years. Most recently, I joined a startup (Contractually) as the first full-time engineer, commercialized the
-product from an initial alpha version, and helped establish the team that got us to an acquisition by Coupa (NASDAQ:
-COUP). I continued working in a mix of PdM and Dev roles on the same product at Coupa, helping to re-launching it as
-Coupa CLM and deploying the product with large Enterprise companies.
+<article class="post-body">
+  <h1>Brendan Mulholland</h1>
 
-<h1>Resources For...</h1>
+  I'm a product-inclined web deverlopr originally from Vancouver, Canada and currently living in Berlin. 
+  I focus on problems in the Legal industry and have been solving problems related to contract negotiations for seven
+  years. Most recently, I joined a startup (Contractually) as the first full-time engineer, commercialized the
+  product from an initial alpha version, and helped establish the team that got us to an acquisition by Coupa (NASDAQ:
+  COUP). I continued working in a mix of PdM and Dev roles on the same product at Coupa, helping to re-launching it as
+  Coupa CLM and deploying the product with large Enterprise companies.
+</article>
 
-<h2>Everyone</h2>
-<ul>
-  {% for resource in site.everyone_resources %}
-  <h3>
-    <a href="{{ resource.url }}">
-      {{ resource.title }}
-    </a>
-  </h3>
-  {% endfor %}
-</ul>
+<article class="post-body">
+  <h1>Resources For...</h1>
 
-<h2>Developers</h2>
-<ul>
-  {% for resource in site.developer_resources %}
-  <h3>
-    <a href="{{ resource.url }}">
-      {{ resource.title }}
-    </a>
-  </h3>
-  {% endfor %}
-</ul>
+  <h2>Everyone</h2>
+  <ul>
+    {% for resource in site.everyone_resources %}
+    <h3>
+      <a href="{{ resource.url }}">
+        {{ resource.title }}
+      </a>
+    </h3>
+    {% endfor %}
+  </ul>
 
-<h2>Product</h2>
-<ul>
-  {% for resource in site.product_resources %}
-  <h3>
-    <a href="{{ resource.url }}">
-      {{ resource.title }}
-    </a>
-  </h3>
-  {% endfor %}
-</ul>
+  <h2>Developers</h2>
+  <ul>
+    {% for resource in site.developer_resources %}
+    <h3>
+      <a href="{{ resource.url }}">
+        {{ resource.title }}
+      </a>
+    </h3>
+    {% endfor %}
+  </ul>
+
+  <h2>Product</h2>
+  <ul>
+    {% for resource in site.product_resources %}
+    <h3>
+      <a href="{{ resource.url }}">
+        {{ resource.title }}
+      </a>
+    </h3>
+    {% endfor %}
+  </ul>
+</article>
