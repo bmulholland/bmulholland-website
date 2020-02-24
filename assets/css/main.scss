@@ -14,5 +14,10 @@ $sidebar-sticky: false;
 
 #sidebar > p {
   position: absolute;
-  bottom: 1em;
+  bottom: 1rem;
+}
+
+nav#sidebar-icon-links {
+  position: absolute;
+  bottom: 2.25rem; 
 }
