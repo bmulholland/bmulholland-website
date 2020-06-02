@@ -13,12 +13,12 @@ $sidebar-sticky: false;
 }
 
 #sidebar > p {
-  position: absolute;
+  position: fixed;
   bottom: 1rem;
 }
 
 nav#sidebar-icon-links {
-  position: absolute;
+  position: fixed;
   bottom: 2.25rem; 
 }
 
