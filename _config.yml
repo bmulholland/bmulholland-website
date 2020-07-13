@@ -34,6 +34,8 @@ collections:
     output: true
   developer_resources:
     output: true
+  founder_resources:
+    output: true
 
 permalink: pretty
 

@@ -49,4 +49,15 @@ title: Home
     </h3>
     {% endfor %}
   </ul>
+
+  <h2>Founders</h2>
+  <ul>
+    {% for resource in site.founder_resources %}
+    <h3>
+      <a href="{{ resource.url }}">
+        {{ resource.title }}
+      </a>
+    </h3>
+    {% endfor %}
+  </ul>
 </article>
