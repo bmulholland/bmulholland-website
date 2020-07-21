@@ -93,6 +93,8 @@ Applying this stuff will take real-life experience, and so expect this to be a 1
 
 <https://thoughtbot.com/upcase> “We're not a bootcamp, we're a finishing school”
 
+<https://missing.csail.mit.edu/> "The Missing Semester of Your CS Education"
+
 SaaS: <https://stripe.com/atlas/guides/business-of-saas>
 
 <https://www.pluralsight.com>
