@@ -145,6 +145,7 @@ Book - The Effective Engineer
 ## Senior to Staff
 
 <https://medium.com/box-tech-blog/what-a-senior-staff-software-engineer-actually-does-d55308fcdd41>
+<https://staffeng.com/>
 
 ## Other articles Brendan means to incorporate
 
