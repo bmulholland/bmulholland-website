@@ -161,3 +161,8 @@ Links to read/incorporate:
 * <https://blog.pragmaticengineer.com/the-product-minded-engineer/>
 * <https://increment.com/teams/how-to-build-a-startup-engineering-team/>
 
+
+Incorporate:
+* Senior: creates the plan.
+* Mid-level: follows the plan.
+* Junior: needs to be taught to follow the plan.
